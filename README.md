@@ -3,5 +3,5 @@ For this project, I imported several functions from the 'crypto_wallet.py' into 
 
 ## Sign and Execute a Payment Transaction
 I wrote an equation to calculate the candidate's wage (hourly rate * hours) and wrote this variable on the sidebar. I sent a test transaction for candidate Lane usubg hourly rate of 0.2 eth for 150 hours by using the streamlit interface, and then looking up the resulting transation in Ganache. 
-![ganache_transaction](ganache_transaction.png)
-![transaction_tab](transaction_tab.png)
+![image](https://user-images.githubusercontent.com/98926434/179368605-9a516f84-4c57-4e40-8e8f-8873ef4d1ba1.png)
+![image](https://user-images.githubusercontent.com/98926434/179368618-ceb92e91-3ae3-4db7-8cff-73eb917d257c.png)
